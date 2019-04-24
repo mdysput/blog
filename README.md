@@ -1,1 +1,1 @@
-Goal about that is blog style page!
+Simple blog page.
