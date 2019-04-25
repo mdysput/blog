@@ -1,0 +1,27 @@
+$navbar-default-bg: #e6ff0a;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+#logo{
+  float: left;
+  font-size: 1.7em;
+  color: #BBBBBB;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#logo:hover{
+  color: #B00100;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumbotron{
+
+}
