@@ -1,6 +1,7 @@
 class ArticlesController < ApplicationController
 
   before_action :set_article, only: [:edit, :update, :show, :destroy]
+  # @article = Article.find(params[:id])
 
   def index
     @articles = Article.all
